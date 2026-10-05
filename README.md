@@ -409,6 +409,7 @@ _waiting_
 * [Awesome DevOps Telegram](https://github.com/palark/awesome-devops-telegram) – A curated list of Telegram channels and groups dedicated to DevOps, SRE, and Platform Engineering in English.
 * [Awesome-grammY](https://github.com/grammyjs/awesome-grammY) – This is a curated list of projects that are using grammY.
 * [DirectoryTG](https://directorytg.com/) – Explore Premium Telegram Channels, Apps, Games, Bots, and Groups
+* [Gram News](https://gramnews.org/) – Telegram and TON news with a catalogue of channels, Mini Apps, emoji and sticker packs, collectible gifts and +888 numbers.
 * [statiko.io](https://statiko.io/) – Telegram public channel analytics and directory platform. Continuously monitors post editing and deletion, provides detailed statistics and insights for channels.
 * [TDirectory](https://tdirectory.me/) – Search popular Telegram Channels, Groups and Bots
 * [Telegram Grupos](https://www.telegram-grupos.com/) – Brazilian directory of verified Telegram groups, channels and bots, organized by category and city (PT/EN/ES).
@@ -416,7 +417,6 @@ _waiting_
 * [tgden](https://tgden.com/) – Catalog & search engine for Telegram: 1.2M+ channels, 245k+ group chats, 160k+ bots, stickers and a regional marketplace. Live subscriber stats, full-text search over posts, multilingual. Free, no login. Free REST API (no key, CORS-enabled) and a hosted MCP server for AI agents.
 * [TGMania](https://tgmania.com/) – Searchable directory of 70,000+ Telegram channels and groups by category, country and language, with a 0-10 quality score per channel and a free public JSON API.
 * [tgram.io](https://tgram.io/) – Telegram groups list, telegram group chat, telegram chat rooms, telegram groups to join
-* [Gram News](https://gramnews.org/) – Telegram and TON news with a catalogue of channels, Mini Apps, emoji and sticker packs, collectible gifts and +888 numbers.
 
 ## Community Forums
 
